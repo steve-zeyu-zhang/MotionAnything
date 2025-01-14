@@ -183,7 +183,7 @@ eql-cntrb
 video {
   width: 100%; /* Make video width responsive */
   height: auto; /* Maintain aspect ratio */
-  display: block; /* Removes small gaps below the video */
+  /* display: block; Removes small gaps below the video */
 }
 
 /* Caption styling */
