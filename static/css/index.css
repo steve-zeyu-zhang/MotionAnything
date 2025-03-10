@@ -169,7 +169,7 @@ eql-cntrb
 /* Individual video container */
 .video-container {
   text-align: center; /* Center align text inside the container */
-  width: 30%; /* Set width to make them fit in a row */
+  width: 100%; /* Set width to make them fit in a row */
 }
 
 .vertical-bar {
