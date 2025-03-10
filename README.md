@@ -34,15 +34,17 @@ _Conditional motion generation has been extensively studied in computer vision, 
 
 <b>(03/13/2024)</b> &#127881; Our paper has been highlighted by <a href="https://wx.zsxq.com/dweb2/index/topic_detail/1522541851241522"><b>CVer</b></a>!
 
+
+-->
+
 ## Citation
 
 ```
 @article{zhang2024motion,
-  title={Motion Mamba: Efficient and Long Sequence Motion Generation with Hierarchical and Bidirectional Selective SSM},
+  title={Motion Mamba: Efficient and Long Sequence Motion Generation},
   author={Zhang, Zeyu and Liu, Akide and Reid, Ian and Hartley, Richard and Zhuang, Bohan and Tang, Hao},
   journal={arXiv preprint arXiv:2403.07487},
   year={2024}
 }
 ```
 
--->
