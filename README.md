@@ -1,4 +1,4 @@
-<div align="center"><h1>Motion Anything: One Prompt for Multimodal Motion and Avatar Generation<br>
+<div align="center"><h1>Motion Anything: Any to Motion Generation<br>
 <!-- <sub><sup><a href="">Preprint</a></sup></sub> -->
 </h1>
 
@@ -10,11 +10,10 @@
 
 </div>
 
-_Motion generation conditioned on inputs such as text and music has been extensively studied in computer vision. While specialized models exist for text-to-motion (T2M) or music-to-dance (M2D) generation, and some unified models handle multimodal conditioning, they are limited to processing only one type of input at a time and cannot generate avatars or background music. To address these challenges, our paper introduces several key contributions. (1) Firstly, we propose <b>Motion Anything</b>, a pioneering method capable of tackling multiple modalities simultaneously to generate 4D avatars with background music and text queries. (2) Additionally, we designed the <b>Temporal Adaptive Transformer</b>, which adaptively aligns different modalities of conditions to control motion generation in a time-sensitive manner. Meanwhile, our <b>Spatial Aligning Transformer</b> maps action text to specific body-part movements and aligns music genres with corresponding dance styles. (3) Furthermore, we developed an <b>attention-based spatial and temporal mask modeling</b> approach for more effective autoregressive generation. (4) In addition, we introduced a <b>Selective Rigging Mechanism</b> for improved automatic rigging of 3D meshes with skeletons. (5) We also created a new dataset named <b>Text-Music-Dance</b> (<b>TMD</b>), consisting of <b>2,153</b> paired samples of text, music, and dance, making it <b>twice</b> as large as AIST++. (6) Lastly, we conducted extensive experiments on standard benchmarks across various motion generation tasks. Our method achieved a <b>15%</b> improvement in FID on HumanML3D and showed consistent performance gains on AIST++._
+_Conditional motion generation has been extensively studied in computer vision, yet two critical challenges remain. First, while masked autoregressive methods have recently outperformed diffusion-based approaches, existing masking models lack a mechanism to prioritize dynamic frames and body parts based on given conditions. Second, existing methods for different conditioning modalities often fail to integrate multiple modalities effectively, limiting control and coherence in generated motion. To address these challenges, we propose <b>Motion Anything</b>, a multimodal motion generation framework that introduces an Attention-based Mask Modeling approach, enabling fine-grained spatial and temporal control over key frames and actions. Our model adaptively encodes multimodal conditions, including text and music, improving controllability. Additionally, we introduce <b>Text-Motion-Dance</b> (<b>TMD</b>), a new motion dataset consisting of <b>2,153</b> pairs of text, music, and dance, making it <b>twice</b> the size of AIST++, thereby filling a critical gap in the community. Extensive experiments demonstrate that Motion Anything surpasses state-of-the-art methods across multiple benchmarks, achieving a <b>15%</b> improvement in FID on HumanML3D and showing consistent performance gains on AIST++ and TMD._
 
 <div align="center">
-<!-- <img src="static/images/main.svg" style="width: 100%;">
-<img src="static/images/block.svg" style="width: 80%;"> -->
+<img src="https://github.com/steve-zeyu-zhang/MotionAnything/blob/website/static/images/main.png" style="width: 100%;">
 </div>
 
 <!-- 
