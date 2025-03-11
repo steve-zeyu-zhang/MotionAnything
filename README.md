@@ -2,7 +2,9 @@
 <!-- <sub><sup><a href="">Preprint</a></sup></sub> -->
 </h1>
 
-[Zeyu Zhang](https://steve-zeyu-zhang.github.io), [Yiran Wang](https://www.linkedin.com/in/yiran-wang-101739246/), [Wei Mao](https://wei-mao-2019.github.io/home/), [Danning Li](https://www.linkedin.com/in/danning-li-448039229/), [Rui Zhao](https://www.linkedin.com/in/akira-zhao/), [Biao Wu](https://scholar.google.com/citations?user=Y3SBBWMAAAAJ&hl=en), [Zirui Song](https://ziruisongbest.github.io/), [Bohan Zhuang](https://bohanzhuang.github.io/), [Ian Reid](https://mbzuai.ac.ae/study/faculty/ian-reid/), [Richard Hartley](https://users.cecs.anu.edu.au/~hartley/)
+[Zeyu Zhang](https://steve-zeyu-zhang.github.io)<sup>\*</sup>, [Yiran Wang](https://www.linkedin.com/in/yiran-wang-101739246/)<sup>\*</sup>, [Wei Mao](https://wei-mao-2019.github.io/home/), [Danning Li](https://www.linkedin.com/in/danning-li-448039229/), [Rui Zhao](https://www.linkedin.com/in/akira-zhao/), [Biao Wu](https://scholar.google.com/citations?user=Y3SBBWMAAAAJ&hl=en), [Zirui Song](https://ziruisongbest.github.io/), [Bohan Zhuang](https://bohanzhuang.github.io/), [Ian Reid](https://mbzuai.ac.ae/study/faculty/ian-reid/), [Richard Hartley](https://users.cecs.anu.edu.au/~hartley/)
+
+<sup>*</sup>Equal contribution
 
 [![Website](https://img.shields.io/badge/Website-Demo-fedcba?style=flat-square)](https://steve-zeyu-zhang.github.io/MotionAnything/) 
 [![arXiv](https://img.shields.io/badge/arXiv-2503.06955-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2503.06955) 
