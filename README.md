@@ -47,11 +47,11 @@ _Conditional motion generation has been extensively studied in computer vision, 
 ## Citation
 
 ```
-@article{zhang2024motion,
-  title={Motion Mamba: Efficient and Long Sequence Motion Generation},
-  author={Zhang, Zeyu and Liu, Akide and Reid, Ian and Hartley, Richard and Zhuang, Bohan and Tang, Hao},
-  journal={arXiv preprint arXiv:2403.07487},
-  year={2024}
+@article{zhang2025motion,
+  title={Motion Anything: Any to Motion Generation},
+  author={Zhang, Zeyu and Wang, Yiran and Mao, Wei and Li, Danning and Zhao, Rui and Wu, Biao and Song, Zirui and Zhuang, Bohan and Reid, Ian and Hartley, Richard},
+  journal={arXiv preprint arXiv:2503.06955},
+  year={2025}
 }
 ```
 
